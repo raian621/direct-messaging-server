@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+*.crt
+*.key
+tmp/*
+coverage.*
